@@ -1,0 +1,16 @@
+{
+  "m_Version": 8,
+  "DisplayName": "Consumeables",
+  "TraderIcon": "Backpack",
+  "Currencies": [
+    "MoneyRuble"
+  ],
+  "Categories": [
+    "Medical",
+    "Food",
+    "Meat",
+    "Drinks",
+    "Barter:2"
+  ],
+  "Items": {}
+}

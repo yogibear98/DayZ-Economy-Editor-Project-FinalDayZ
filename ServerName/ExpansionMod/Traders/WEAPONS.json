@@ -1,0 +1,29 @@
+{
+  "m_Version": 8,
+  "DisplayName": "Weapons",
+  "TraderIcon": "Backpack",
+  "Currencies": [
+    "MoneyRuble"
+  ],
+  "Categories": [
+    "Optics",
+    "Bayonets",
+    "Buttstocks",
+    "Handguards",
+    "Muzzles",
+    "Assault_Rifles",
+    "Submachine_Guns",
+    "Ammo",
+    "Sniper_Rifles",
+    "Melee_Weapons",
+    "Knifes",
+    "Pistols",
+    "Rifles",
+    "Explosives_And_Grenades",
+    "Shotguns",
+    "Magazines"
+  ],
+  "Items": {
+    "battery9v": 3
+  }
+}

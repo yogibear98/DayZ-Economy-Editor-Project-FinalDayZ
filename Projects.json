@@ -1,0 +1,29 @@
+{
+  "ActiveProject": "project",
+  "Projects": [
+    {
+      "ProjectName": "project",
+      "projectFullName": "C:\\Users\\Josep Weston\\Desktop\\DayZeEditor\\project",
+      "ProfilePath": "ServerName",
+      "usingDrJoneTrader": false,
+      "usingexpansionMarket": true,
+      "usingtraderplus": false,
+      "MapPath": "\\Maps\\chernarusplus_Map.png",
+      "MapSize": 15360,
+      "mpmissionpath": "dayzOffline.chernarusplus",
+      "Createbackups": false
+    },
+    {
+      "ProjectName": "New project",
+      "projectFullName": "C:\\Users\\Josep Weston\\Desktop\\DayZeEditor\\New project\\New project",
+      "ProfilePath": "ServerName",
+      "usingDrJoneTrader": true,
+      "usingexpansionMarket": false,
+      "usingtraderplus": false,
+      "MapPath": "\\Maps\\chernarusplus_Map.png",
+      "MapSize": 15360,
+      "mpmissionpath": "dayzOffline.chernarusplus",
+      "Createbackups": false
+    }
+  ]
+}

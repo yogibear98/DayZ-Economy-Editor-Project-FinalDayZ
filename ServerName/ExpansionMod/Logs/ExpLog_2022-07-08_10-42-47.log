@@ -1,0 +1,5 @@
+10:45:17 [Expansion Quests] - SetupClientData - Created new persistent player quest data for player UID: z1pbeF0UvCxkhZvxh4L4w6ToYMNcls3G_jKuCGZOD1o=
+10:49:38 [MissionAirdrop] An airdrop is heading towards "Sosnovka" (pos=<2700.000000, 0.000000, 6193.000000> type=Random_Sosnovka) with a ExpansionAirdropContainer_Basebuilding
+10:50:29 [Safezone] Player "Joseph" (id=z1pbeF0UvCxkhZvxh4L4w6ToYMNcls3G_jKuCGZOD1o= pos=<8176.040039, 475.451477, 9159.809570>) Entered the safezone
+10:57:42 [Market] Player "Joseph" (id=z1pbeF0UvCxkhZvxh4L4w6ToYMNcls3G_jKuCGZOD1o=) has send a requested to purchase ammo_expansion_46x30 x3 from the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Altar_Trader" (pos=<8080.000000, 460.000000, 9300.000000>).
+10:57:42 [Market] Player "Joseph" (id=z1pbeF0UvCxkhZvxh4L4w6ToYMNcls3G_jKuCGZOD1o=) has bought ammo_expansion_46x30 x3 from the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Altar_Trader" (pos=<8080.000000, 460.000000, 9300.000000>) for a price of 6.

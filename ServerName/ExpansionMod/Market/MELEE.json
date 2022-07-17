@@ -1,0 +1,108 @@
+{
+  "m_Version": 9,
+  "DisplayName": "Melee",
+  "Icon": "Deliver",
+  "Color": "00A2FFFF",
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "barbedbaseballbat",
+      "MaxPriceThreshold": 90,
+      "MinPriceThreshold": 45,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "baseballbat",
+      "MaxPriceThreshold": 70,
+      "MinPriceThreshold": 35,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "brassknuckles_dull",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 15,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "brassknuckles_shiny",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 15,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "broom",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 15,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "broom_birch",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 15,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "nailedbaseballbat",
+      "MaxPriceThreshold": 90,
+      "MinPriceThreshold": 45,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "pipe",
+      "MaxPriceThreshold": 50,
+      "MinPriceThreshold": 25,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "stunbaton",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 15,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "m_Version": 8,
+  "DisplayName": "Clothing",
+  "TraderIcon": "Backpack",
+  "Currencies": [
+    "MoneyRuble"
+  ],
+  "Categories": [
+    "Masks",
+    "Backpacks",
+    "Armbands",
+    "Shoes",
+    "Glasses",
+    "MilitaryHelmets",
+    "Hats_And_Hoods",
+    "Jackets_And_Coats",
+    "Pants",
+    "Holsters_And_Pouches",
+    "Belts",
+    "Helmets",
+    "Ghillies",
+    "Vests",
+    "Sweaters_And_Hoodies",
+    "Gloves",
+    "Armor",
+    "Shirts"
+  ],
+  "Items": {
+    "gorkahelmetvisor": 3,
+    "tf_6b47helmetcover_emr": 3,
+    "tf_6b47helmetcover_syrian": 3,
+    "tf_maska1schvisor": 3,
+    "tf_mich2000helmetcover_woodland": 3
+  }
+}

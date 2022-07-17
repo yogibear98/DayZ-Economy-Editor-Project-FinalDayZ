@@ -1,0 +1,22 @@
+{
+    "KeycardDoor": [
+        {
+            "doorClassName": "land_evg_door_Tisy01",
+            "doorPosition": [
+                1234.5670166015626,
+                1234.5670166015626,
+                1234.5670166015626
+            ],
+            "doorRotation": [
+                1234.5670166015626,
+                0.0,
+                -1234.5670166015626
+            ],
+            "autoCloseTime": 15.0,
+            "keycardToOpen": "evg_keycards_Tisy01",
+            "damageToKeycard": 30.0,
+            "enableSwipeSound": 1,
+            "enableCloseSound": 1
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+  "m_Version": 8,
+  "DisplayName": "Building Supplies",
+  "TraderIcon": "Backpack",
+  "Currencies": [
+    "MoneyRuble"
+  ],
+  "Categories": [
+    "HARDWARE",
+    "TOOLS",
+    "LIGHTS",
+    "FLAGS"
+  ],
+  "Items": {
+    "ammobox": 1,
+    "barrel_blue": 1,
+    "cartent": 1,
+    "codelock": 1,
+    "largetent": 1,
+    "mediumtent": 1,
+    "partytent": 1,
+    "seachest": 1,
+    "smallprotectorcase": 1,
+    "woodencrate": 1
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "EnableDebug": 1,
+  "DeleteLogs": 0,
+  "MaxSpareMags": 3,
+  "RandomQuantity": 0,
+  "LootChestsLocations": [
+    {
+      "name": "Pavlovo Military",
+      "number": 3,
+      "pos": [
+        "2209.426025 96.030960 3277.148682|45.000134 -0.000000 -0.000000",
+        "2213.625000 96.057701 3272.738525|-134.999863 0.000000 -0.000000",
+        "2215.411621 96.048660 3270.633789|45.000072 -0.000000 -0.000000"
+      ],
+      "keyclass": "",
+      "openable": 2,
+      "chest": [
+        "CJ_LootChest_Brown_Large",
+        "CJ_LootChest_Wood_Brown_Large"
+      ],
+      "LootRandomization": 0,
+      "light": 0,
+      "loot": [
+        "Hammer",
+        "NailBox",
+        "NailBox",
+        "NailBox",
+        "CombatKnife",
+        "Rag",
+        "HandSaw",
+        "Hammer"
+      ]
+    },
+    {
+      "name": "This is only an example config! Dont use this on your Gameserver!",
+      "number": 1,
+      "pos": [
+        "1694.563354 456.617462 14212.774414|75 0 0"
+      ],
+      "keyclass": "",
+      "openable": 2,
+      "chest": [
+        "CJ_LootChest_Brown_Large",
+        "CJ_LootChest_Grey_Large"
+      ],
+      "LootRandomization": 0,
+      "light": 0,
+      "loot": [
+        "LC_Table_Weapons_1",
+        "Hammer",
+        "NailBox",
+        "NailBox",
+        "NailBox",
+        "CombatKnife",
+        "Rag",
+        "HandSaw",
+        "Hammer"
+      ]
+    },
+    {
+      "name": "Please read all Descriptions carefully!",
+      "number": 1,
+      "pos": [
+        "1676.453857 456.617462 14218.060547|-105 0 0"
+      ],
+      "keyclass": "",
+      "openable": 2,
+      "chest": [
+        "CJ_LootChest_Olive_Large"
+      ],
+      "LootRandomization": 0,
+      "light": 0,
+      "loot": [
+        "LC_Table_Armor"
+      ]
+    },
+    {
+      "name": "This is only an example config! Dont use this on your Gameserver!",
+      "number": 1,
+      "pos": [
+        "1694.563354 456.617462 14212.774414|75 0 0"
+      ],
+      "keyclass": "",
+      "openable": 2,
+      "chest": [
+        "CJ_LootChest_Brown_Large",
+        "CJ_LootChest_Grey_Large"
+      ],
+      "LootRandomization": 0,
+      "light": 0,
+      "loot": [
+        "Hammer",
+        "NailBox",
+        "NailBox",
+        "NailBox",
+        "CombatKnife",
+        "Rag",
+        "HandSaw",
+        "Hammer"
+      ]
+    },
+    {
+      "name": "TisyLootchestsBunker",
+      "number": 8,
+      "pos": [
+        "1691.647217 451.692413 14205.129883|161.999954 0.000000 -0.000000",
+        "1684.157104 448.347443 14202.860352|-107.999962 0.000000 -0.000000",
+        "1683.660156 448.354584 14204.805664|-107.999962 0.000000 -0.000000",
+        "1678.540161 448.356659 14212.758789|-18.000000 0.000000 0.000000",
+        "1680.193481 448.356140 14213.337891|-18.000000 0.000000 0.000000",
+        "1682.105713 448.370209 14214.073242|-18.000000 0.000000 0.000000",
+        "1688.469727 448.397858 14212.326172|44.999992 -0.000000 -0.000000",
+        "1689.440308 448.357422 14211.345703|45.000023 -0.000000 -0.000000",
+        "1690.502441 448.371033 14210.309570|45.000023 -0.000000 -0.000000",
+        "1692.251221 448.345795 14209.238281|-17.999985 0.000000 0.000000",
+        "1693.638794 448.354645 14209.643555|-17.999987 0.000000 0.000000",
+        "1694.941406 448.416351 14210.108398|-17.999987 0.000000 0.000000",
+        "1696.057129 448.392731 14211.120117|-107.999962 0.000000 -0.000000",
+        "1695.763672 448.366974 14212.459961|-107.999962 0.000000 -0.000000",
+        "1695.290894 448.337769 14213.854492|-107.999962 0.000000 -0.000000",
+        "1694.790161 448.335236 14215.083008|-107.999962 0.000000 -0.000000",
+        "1686.188477 449.049011 14207.599609|-8.999961 0.000000 0.000000"
+      ],
+      "keyclass": "",
+      "openable": 2,
+      "chest": [
+        "CJ_LootChest_Camo_Large",
+        "CJ_LootChest_Tan_Large"
+      ],
+      "LootRandomization": 0.5,
+      "light": 0,
+      "loot": [
+        "LC_Table_Test"
+      ]
+    }
+  ],
+  "LCPredefinedWeapons": [
+    {
+      "defname": "LC_predefined_AK101",
+      "weapon": "AK101",
+      "magazine": "Mag_AK101_30Rnd",
+      "attachments": [
+        "AK_PlasticHndgrd",
+        "AK_PlasticBttstck"
+      ],
+      "optic": "KobraOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_AK74",
+      "weapon": "AK74",
+      "magazine": "Mag_AK74_30Rnd",
+      "attachments": [
+        "AK74_Hndgrd",
+        "AK74_WoodBttstck"
+      ],
+      "optic": "KobraOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_AKM",
+      "weapon": "AKM",
+      "magazine": "Mag_AKM_30Rnd",
+      "attachments": [
+        "AK_WoodHndgrd",
+        "AK_WoodBttstck"
+      ],
+      "optic": "KobraOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_Blaze",
+      "weapon": "B95",
+      "magazine": "",
+      "attachments": [
+        ""
+      ],
+      "optic": "HuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_CZ527",
+      "weapon": "CZ527",
+      "magazine": "Mag_CZ527_5rnd",
+      "attachments": [
+        ""
+      ],
+      "optic": "HuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_M4",
+      "weapon": "M4A1",
+      "magazine": "Mag_STANAG_30Rnd",
+      "attachments": [
+        "M4_RISHndgrd_Black",
+        "M4_MPBttstck_Black"
+      ],
+      "optic": "ACOGOptic_6x",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_MK18",
+      "weapon": "BO_MK18",
+      "magazine": "",
+      "attachments": [
+        "TF_M4_FABDGLCoreBttstck"
+      ],
+      "optic": "TF_OKP7Optic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_MK47",
+      "weapon": "TF_MK47",
+      "magazine": "",
+      "attachments": [
+        "TF_AR10_CMMG15Hndgrd_MLOCK",
+        "TF_M4_FABDGLCoreBttstck"
+      ],
+      "optic": "TF_OKP7Optic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_SCARH",
+      "weapon": "TF_SCAR_H_Black",
+      "magazine": "",
+      "attachments": [
+        "TF_SCAR_Mk20Bttstck_Black"
+      ],
+      "optic": "BO_ACOGOptic_300blk_Blue",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_SCARSSR",
+      "weapon": "TF_SCAR_20_Black",
+      "magazine": "",
+      "attachments": [
+        "TF_SCAR_Mk20Bttstck_Black"
+      ],
+      "optic": "BO_ACOGOptic_300blk_Blue",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_SKS",
+      "weapon": "SKS",
+      "magazine": "",
+      "attachments": [
+        ""
+      ],
+      "optic": "PUScopeOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_SR25",
+      "weapon": "TF_SR25",
+      "magazine": "",
+      "attachments": [
+        "TF_AR10_CMMG15Hndgrd_MLOCK",
+        "TF_M4_B5PrecisionBttstck"
+      ],
+      "optic": "BO_ACOGOptic_300blk_Blue",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_SVCH",
+      "weapon": "TF_SVCh308",
+      "magazine": "",
+      "attachments": [
+        ""
+      ],
+      "optic": "BO_ACOGOptic_300blk_Blue",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_SVD",
+      "weapon": "SVD",
+      "magazine": "Mag_SVD_10Rnd",
+      "attachments": [],
+      "optic": "PSO11Optic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_VSS",
+      "weapon": "VSS",
+      "magazine": "Mag_VSS_10Rnd",
+      "attachments": [],
+      "optic": "KobraOptic",
+      "opticbattery": 1
+    }
+  ],
+  "LootCategories": [
+    {
+      "name": "LC_Table_MediumTierWeapons",
+      "Loot": [
+        "Glock19",
+        "BO_HK416"
+      ]
+    },
+    {
+      "name": "LC_Table_Test",
+      "Loot": [
+        "TF_SCAR_H_Black",
+        "TF_SCAR_H_CQC_Black",
+        "BO_M200_Black",
+        "BO_AX50",
+        "BO_M300",
+        "TF_M14_EBR",
+        "LC_predefined_SVD",
+        "LC_predefined_M4",
+        "LC_predefined_AKM",
+        "LC_predefined_MK18",
+        "LC_predefined_MK47",
+        "LC_predefined_SVCH",
+        "LC_predefined_SR25"
+      ]
+    },
+    {
+      "name": "LC_Table_Magizines",
+      "Loot": []
+    },
+    {
+      "name": "LC_Table_HeadGear",
+      "Loot": []
+    },
+    {
+      "name": "LC_Table_BodyArmor",
+      "Loot": [
+        "Paragon_DCS_L_Black",
+        "Paragon_DCS_L_Green",
+        "Paragon_DCS_L_Black",
+        "Paragon_DCS_L_Green",
+        "Paragon_DCS_Green",
+        "Paragon_DCS_Black",
+        "Paragon_DCS_Green",
+        "Paragon_DCS_Black",
+        "Paragon_IOTV_Green",
+        "Paragon_6B43_Black"
+      ]
+    }
+  ]
+}
